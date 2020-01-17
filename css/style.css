@@ -1,0 +1,28 @@
+.glowny {
+    width: 60%;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-header {
+    text-align: center;
+    height: 60px;
+    
+}
+
+.czcionka {
+    color: orange;
+}
+
+.nag {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 30px;
+    color: grey;
+}
+
+hr {
+    width: 30%;
+}
+
